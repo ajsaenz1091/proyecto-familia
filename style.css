@@ -1,0 +1,25 @@
+		
+.body-background {
+background-image: linear-gradient(180deg,#ffbc00 0,#ff6975);
+background-repeat: repeat-x;
+
+}
+
+.background-color-layer {
+    background-size: cover;
+    opacity: .15;
+    background-repeat: no-repeat;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    width: 100%;
+    left: 0;
+    right: 0;
+    bottom: 30%;
+    box-shadow: inset 0 -40px 60px 10px #fff700eb;
+}
+
+.card-block img {
+	width: 200px;
+	height: 200px;
+}
